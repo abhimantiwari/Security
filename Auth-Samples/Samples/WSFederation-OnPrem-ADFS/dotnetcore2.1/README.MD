@@ -20,4 +20,10 @@ Microsoft.AspNetCore.DataProtectin.Abstraction
     }
 ```
 
+#### Update properties Wtrealm & MetadataAddress in Startup.ConfigureServices
+```
+options.Wtrealm = "https://localhost:44307"; //Your application's URL
+options.MetadataAddress = "https://YOUR_ADFS_DOMAIN/federationmetadata/2007-06/federationmetadata.xml";
+```
+
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/ws-federation?view=aspnetcore-3.1
