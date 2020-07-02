@@ -1,0 +1,5 @@
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.0\Api.csprojAssemblyReference.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.0\Api.AssemblyInfoInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.0\Api.AssemblyInfo.cs
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.0\Api.csproj.CoreCompileInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.0\Api.MvcApplicationPartsAssemblyInfo.cache

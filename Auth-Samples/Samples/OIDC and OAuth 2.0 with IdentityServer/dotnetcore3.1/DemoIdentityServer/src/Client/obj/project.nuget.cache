@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7bzaQq9REOGp/m3j4wUGYCU650Q/E/3e5tdgmUqSq8eEMEIKh009VjYDGbBQJ9aoaZlwtqRW2Oth5HdTRAKEZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhtiwar\\source\\repos\\DemoIdentityServer\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhtiwar\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
+    "C:\\Users\\abhtiwar\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\abhtiwar\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

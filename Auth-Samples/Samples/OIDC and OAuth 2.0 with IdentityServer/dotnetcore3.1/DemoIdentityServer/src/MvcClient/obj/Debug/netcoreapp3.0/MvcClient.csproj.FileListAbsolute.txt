@@ -1,0 +1,7 @@
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.csprojAssemblyReference.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.AssemblyInfoInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.AssemblyInfo.cs
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.csproj.CoreCompileInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.RazorAssemblyInfo.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\MvcClient\obj\Debug\netcoreapp3.0\MvcClient.RazorAssemblyInfo.cs
