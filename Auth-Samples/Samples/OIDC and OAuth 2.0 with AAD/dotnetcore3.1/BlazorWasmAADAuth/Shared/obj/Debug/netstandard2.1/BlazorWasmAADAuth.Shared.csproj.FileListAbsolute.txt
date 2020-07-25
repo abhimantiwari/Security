@@ -1,0 +1,9 @@
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\bin\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.deps.json
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\bin\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.dll
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\bin\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.pdb
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.csprojAssemblyReference.cache
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.AssemblyInfoInputs.cache
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.AssemblyInfo.cs
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.csproj.CoreCompileInputs.cache
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.dll
+C:\Demo\BlazorDemo\BlazorWasmAADAuth\Shared\obj\Debug\netstandard2.1\BlazorWasmAADAuth.Shared.pdb
