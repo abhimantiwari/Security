@@ -1,0 +1,32 @@
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

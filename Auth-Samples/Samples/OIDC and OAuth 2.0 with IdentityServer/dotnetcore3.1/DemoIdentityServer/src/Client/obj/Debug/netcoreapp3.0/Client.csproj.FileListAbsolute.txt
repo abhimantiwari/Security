@@ -1,0 +1,16 @@
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.exe
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\IdentityModel.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.csproj.CoreCompileInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.csproj.CopyComplete
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Client\obj\Debug\netcoreapp3.0\Client.genruntimeconfig.cache
