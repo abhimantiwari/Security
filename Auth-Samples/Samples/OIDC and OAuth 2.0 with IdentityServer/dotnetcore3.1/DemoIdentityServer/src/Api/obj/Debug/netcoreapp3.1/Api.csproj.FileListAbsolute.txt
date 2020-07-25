@@ -1,0 +1,56 @@
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Demo\OIDC and OAuth2.0\OpenId Connect and OAuth 2.0 with IdentityServer4\3_AspNetCoreAndApis\src\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\abhtiwar\source\repos\DemoIdentityServer\src\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
